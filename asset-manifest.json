@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Anatoliy0707.github.io/dz-app/static/css/main.ddce93c9.chunk.css",
-    "main.js": "/Anatoliy0707.github.io/dz-app/static/js/main.4ed6ad94.chunk.js",
-    "main.js.map": "/Anatoliy0707.github.io/dz-app/static/js/main.4ed6ad94.chunk.js.map",
-    "runtime-main.js": "/Anatoliy0707.github.io/dz-app/static/js/runtime-main.37bb6545.js",
-    "runtime-main.js.map": "/Anatoliy0707.github.io/dz-app/static/js/runtime-main.37bb6545.js.map",
-    "static/js/2.3871db4f.chunk.js": "/Anatoliy0707.github.io/dz-app/static/js/2.3871db4f.chunk.js",
-    "static/js/2.3871db4f.chunk.js.map": "/Anatoliy0707.github.io/dz-app/static/js/2.3871db4f.chunk.js.map",
-    "index.html": "/Anatoliy0707.github.io/dz-app/index.html",
-    "static/css/main.ddce93c9.chunk.css.map": "/Anatoliy0707.github.io/dz-app/static/css/main.ddce93c9.chunk.css.map",
-    "static/js/2.3871db4f.chunk.js.LICENSE.txt": "/Anatoliy0707.github.io/dz-app/static/js/2.3871db4f.chunk.js.LICENSE.txt"
+    "main.css": "/dz-app/static/css/main.ddce93c9.chunk.css",
+    "main.js": "/dz-app/static/js/main.a54a5f38.chunk.js",
+    "main.js.map": "/dz-app/static/js/main.a54a5f38.chunk.js.map",
+    "runtime-main.js": "/dz-app/static/js/runtime-main.5cca21ac.js",
+    "runtime-main.js.map": "/dz-app/static/js/runtime-main.5cca21ac.js.map",
+    "static/js/2.3871db4f.chunk.js": "/dz-app/static/js/2.3871db4f.chunk.js",
+    "static/js/2.3871db4f.chunk.js.map": "/dz-app/static/js/2.3871db4f.chunk.js.map",
+    "index.html": "/dz-app/index.html",
+    "static/css/main.ddce93c9.chunk.css.map": "/dz-app/static/css/main.ddce93c9.chunk.css.map",
+    "static/js/2.3871db4f.chunk.js.LICENSE.txt": "/dz-app/static/js/2.3871db4f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37bb6545.js",
+    "static/js/runtime-main.5cca21ac.js",
     "static/js/2.3871db4f.chunk.js",
     "static/css/main.ddce93c9.chunk.css",
-    "static/js/main.4ed6ad94.chunk.js"
+    "static/js/main.a54a5f38.chunk.js"
   ]
 }
