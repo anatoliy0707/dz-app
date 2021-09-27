@@ -9,7 +9,7 @@ function Header() {
     const callBack = () => setToggleON(!toggleON)
 
     return (
-        <nav className={`${toggleON ? `${style.navWrapper} ${style.navWrapperActive}` : style.navWrapper}`}>
+        <nav className={`${style.navWrapper} ${toggleON ? style.navWrapperActive : ''}`}>
             <NavLink className={style.navLink} to='/pre-junior'>pre-junior</NavLink>
             <NavLink className={style.navLink} to='/junior'>junior</NavLink>
             <NavLink className={style.navLink} to='/junior+'>junior+</NavLink>
