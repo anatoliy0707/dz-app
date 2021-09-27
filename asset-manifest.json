@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dz-app/static/css/main.ddce93c9.chunk.css",
-    "main.js": "/dz-app/static/js/main.a54a5f38.chunk.js",
-    "main.js.map": "/dz-app/static/js/main.a54a5f38.chunk.js.map",
+    "main.js": "/dz-app/static/js/main.51038cee.chunk.js",
+    "main.js.map": "/dz-app/static/js/main.51038cee.chunk.js.map",
     "runtime-main.js": "/dz-app/static/js/runtime-main.5cca21ac.js",
     "runtime-main.js.map": "/dz-app/static/js/runtime-main.5cca21ac.js.map",
     "static/js/2.3871db4f.chunk.js": "/dz-app/static/js/2.3871db4f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5cca21ac.js",
     "static/js/2.3871db4f.chunk.js",
     "static/css/main.ddce93c9.chunk.css",
-    "static/js/main.a54a5f38.chunk.js"
+    "static/js/main.51038cee.chunk.js"
   ]
 }
