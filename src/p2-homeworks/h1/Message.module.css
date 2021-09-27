@@ -1,0 +1,53 @@
+.messageWrapper {
+    display: flex;
+    align-items: flex-end;
+
+    width: 300px;
+    padding: 10px;
+    background-color: gold;
+}
+
+.ava {
+    flex: 1;
+
+    text-align: center;
+}
+
+.ava img {
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.messageContainer {
+    flex: 4;
+
+    padding: 5px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.triangle {
+    position: relative;
+    left: 7px;
+
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 0 solid transparent;
+    border-bottom: 20px solid black;
+}
+
+.userName {
+    color: blueviolet;
+}
+
+.message {
+    color: white;
+}
+
+.time {
+    text-align: right;
+    color: darkgreen;
+}

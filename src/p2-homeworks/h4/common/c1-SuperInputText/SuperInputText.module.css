@@ -1,0 +1,23 @@
+.superInput {
+    font-size: 13px;
+    padding: 6px 0 4px 10px;
+    border: 1px solid #cecece;
+    background: #F6F6f6;
+    border-radius: 8px;
+}
+
+.errorInput {
+    padding: 6px 0 4px 10px;
+    border: 3px solid lime;
+    background: red;
+    border-radius: 8px;
+
+}
+
+.error {
+    color: red;
+}
+
+.blue {
+
+}

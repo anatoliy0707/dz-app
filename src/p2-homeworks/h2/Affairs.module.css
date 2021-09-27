@@ -1,0 +1,65 @@
+.someClass {
+    text-align: center;
+
+    /*flex-direction: column;*/
+    width: 320px;
+    height: 250px;
+    /*height: 200px;*/
+    /*!*justify-content: space-between;*!*/
+    /*align-items: center;*/
+    box-sizing: border-box;
+    background-color: gold;
+    display: grid;
+}
+
+.content {
+
+    display: grid;
+    grid-template-rows: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "name priority btn";
+}
+
+.contentItemName {
+    grid-area: name;
+}
+
+
+.contentItemBtn {
+    grid-area: btn;
+}
+
+.filterBtn {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: end;
+
+}
+
+.filterBtn button {
+
+    width: 60px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.contentItemBtn button {
+    width: 50px;
+}
+
+
+.low, .middle, .high {
+    grid-area: priority;
+}
+
+.low {
+    color: red;
+}
+
+.middle {
+    color: yellow;
+}
+
+.high {
+    color: green;
+}
