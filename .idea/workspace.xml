@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d50b7ef-2b27-420b-928a-7a946b67edf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/HW5.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/HW5.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/Routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Routes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x4GBwniu09wuWbReLvFL8J5p6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="C:\IT-incubator\ignatDz\dz-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it-incubator\ignatDz\dz-app\src\p2-homeworks\h1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="Message.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h1/tests/Message.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deleteAffair.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h2/tests/deleteAffair.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filterAffairs.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h2/tests/filterAffairs.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="Jest.filterAffairs.test.tsx" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="Jest.deleteAffair.test.tsx" />
+        <item itemvalue="Jest.Message.test.tsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d50b7ef-2b27-420b-928a-7a946b67edf7" name="Default Changelist" comment="" />
+      <created>1629606815139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629606815139</updated>
+      <workItem from="1629606823126" duration="4822000" />
+      <workItem from="1629611699677" duration="8055000" />
+      <workItem from="1629648379281" duration="35000" />
+      <workItem from="1630235747444" duration="1913000" />
+      <workItem from="1630300726144" duration="6569000" />
+      <workItem from="1630320348232" duration="4808000" />
+      <workItem from="1630330987819" duration="4807000" />
+      <workItem from="1630843137116" duration="2070000" />
+      <workItem from="1630932925192" duration="35000" />
+      <workItem from="1631302385127" duration="719000" />
+      <workItem from="1631308841142" duration="15000" />
+      <workItem from="1631432486537" duration="260000" />
+      <workItem from="1631433401176" duration="21000" />
+      <workItem from="1631544282472" duration="1380000" />
+      <workItem from="1631545679794" duration="3183000" />
+      <workItem from="1631549233515" duration="21000" />
+      <workItem from="1631550535888" duration="1124000" />
+      <workItem from="1631630528921" duration="70000" />
+      <workItem from="1632581381225" duration="206000" />
+      <workItem from="1632581591158" duration="11660000" />
+      <workItem from="1632757972066" duration="538000" />
+      <workItem from="1632758524840" duration="866000" />
+      <workItem from="1632759406982" duration="2740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1074" y="235" key="FileChooserDialogImpl" timestamp="1632759009805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631308853699" />
+    <state x="449" y="103" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1631630600902" />
+    <state x="1074" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1632759009805" />
+    <state x="1318" y="418" key="Github.ShareDialog" timestamp="1632759490808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1318" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632759490808" />
+    <state x="1244" y="225" key="Github.UntrackedFilesDialog" timestamp="1632759509848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1244" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632759509848" />
+    <state width="936" height="279" key="GridCell.Tab.0.bottom" timestamp="1632761309586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630932798441" />
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1631548912180" />
+    <state width="936" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1632761309586" />
+    <state width="936" height="279" key="GridCell.Tab.0.center" timestamp="1632761309585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1630932798441" />
+    <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1631548912180" />
+    <state width="936" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1632761309585" />
+    <state width="936" height="279" key="GridCell.Tab.0.left" timestamp="1632761309585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1630932798441" />
+    <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1631548912180" />
+    <state width="936" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1632761309585" />
+    <state width="936" height="279" key="GridCell.Tab.0.right" timestamp="1632761309585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1630932798441" />
+    <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1631548912180" />
+    <state width="936" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1632761309585" />
+    <state x="909" y="165" key="SettingsEditor" timestamp="1632759390641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="909" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1632759390641" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1632760425479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632760425479" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1629608042649">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1629608042649" />
+  </component>
+</project>
