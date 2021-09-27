@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anatoliy0707.github.io/dz-app/static/css/main.fa9e90e7.chunk.css",
+    "main.js": "/Anatoliy0707.github.io/dz-app/static/js/main.8e4a7fd5.chunk.js",
+    "main.js.map": "/Anatoliy0707.github.io/dz-app/static/js/main.8e4a7fd5.chunk.js.map",
+    "runtime-main.js": "/Anatoliy0707.github.io/dz-app/static/js/runtime-main.37bb6545.js",
+    "runtime-main.js.map": "/Anatoliy0707.github.io/dz-app/static/js/runtime-main.37bb6545.js.map",
+    "static/js/2.73f42b72.chunk.js": "/Anatoliy0707.github.io/dz-app/static/js/2.73f42b72.chunk.js",
+    "static/js/2.73f42b72.chunk.js.map": "/Anatoliy0707.github.io/dz-app/static/js/2.73f42b72.chunk.js.map",
+    "index.html": "/Anatoliy0707.github.io/dz-app/index.html",
+    "static/css/main.fa9e90e7.chunk.css.map": "/Anatoliy0707.github.io/dz-app/static/css/main.fa9e90e7.chunk.css.map",
+    "static/js/2.73f42b72.chunk.js.LICENSE.txt": "/Anatoliy0707.github.io/dz-app/static/js/2.73f42b72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37bb6545.js",
+    "static/js/2.73f42b72.chunk.js",
+    "static/css/main.fa9e90e7.chunk.css",
+    "static/js/main.8e4a7fd5.chunk.js"
+  ]
+}
