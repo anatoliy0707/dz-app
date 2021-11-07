@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dz-app/static/css/main.ddce93c9.chunk.css",
-    "main.js": "/dz-app/static/js/main.51038cee.chunk.js",
-    "main.js.map": "/dz-app/static/js/main.51038cee.chunk.js.map",
+    "main.css": "/dz-app/static/css/main.86862efa.chunk.css",
+    "main.js": "/dz-app/static/js/main.416c1b67.chunk.js",
+    "main.js.map": "/dz-app/static/js/main.416c1b67.chunk.js.map",
     "runtime-main.js": "/dz-app/static/js/runtime-main.5cca21ac.js",
     "runtime-main.js.map": "/dz-app/static/js/runtime-main.5cca21ac.js.map",
-    "static/js/2.3871db4f.chunk.js": "/dz-app/static/js/2.3871db4f.chunk.js",
-    "static/js/2.3871db4f.chunk.js.map": "/dz-app/static/js/2.3871db4f.chunk.js.map",
+    "static/js/2.ca5efefe.chunk.js": "/dz-app/static/js/2.ca5efefe.chunk.js",
+    "static/js/2.ca5efefe.chunk.js.map": "/dz-app/static/js/2.ca5efefe.chunk.js.map",
     "index.html": "/dz-app/index.html",
-    "static/css/main.ddce93c9.chunk.css.map": "/dz-app/static/css/main.ddce93c9.chunk.css.map",
-    "static/js/2.3871db4f.chunk.js.LICENSE.txt": "/dz-app/static/js/2.3871db4f.chunk.js.LICENSE.txt"
+    "static/css/main.86862efa.chunk.css.map": "/dz-app/static/css/main.86862efa.chunk.css.map",
+    "static/js/2.ca5efefe.chunk.js.LICENSE.txt": "/dz-app/static/js/2.ca5efefe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5cca21ac.js",
-    "static/js/2.3871db4f.chunk.js",
-    "static/css/main.ddce93c9.chunk.css",
-    "static/js/main.51038cee.chunk.js"
+    "static/js/2.ca5efefe.chunk.js",
+    "static/css/main.86862efa.chunk.css",
+    "static/js/main.416c1b67.chunk.js"
   ]
 }
