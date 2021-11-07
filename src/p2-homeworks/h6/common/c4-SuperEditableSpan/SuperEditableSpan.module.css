@@ -1,0 +1,7 @@
+.span {
+    display: inline-block;
+    height: 6px;
+    padding: 6px;
+    cursor: pointer;
+    color: darkslateblue;
+}
